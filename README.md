@@ -73,6 +73,3 @@ src/
 
 The purpose of this repository is to strengthen Java programming fundamentals and gain practical experience with object-oriented programming concepts through hands-on implementation.
 
-## Author
-
-Amina R
